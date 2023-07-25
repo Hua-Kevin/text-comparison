@@ -1,4 +1,4 @@
-Text Comparison App
+Text Comparison App (2021)
   This is a simple text comparison application developed using Qt Creator. It allows users to compare two text files and displays the differences between them.
 
 Features
